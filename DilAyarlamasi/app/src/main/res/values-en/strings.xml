@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Languange Settings</string>
+    <string name="baslik">Hello</string>
+    <string name="kullaniciPlaceHolder">Username</string>
+    <string name="sifrePlaceHolder">Password</string>
+    <string name="buttontext">Login</string>
+
+</resources>

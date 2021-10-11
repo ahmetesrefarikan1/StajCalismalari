@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_birinci"
+        android:icon="@drawable/birinci_resim"
+        android:title="Bir" />
+    <item
+        android:id="@+id/action_ikinci"
+        android:icon="@drawable/ikinci_resim"
+        android:title="İki" />
+    <item
+        android:id="@+id/action_ucuncu"
+        android:icon="@drawable/ucuncu_resim"
+        android:title="Üç" />
+</menu>

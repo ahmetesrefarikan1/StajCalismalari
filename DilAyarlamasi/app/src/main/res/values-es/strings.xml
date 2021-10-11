@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">esCokluDilDestegi</string>
+    <string name="baslik">esMerhaba</string>
+    <string name="kullaniciPlaceHolder">esKullanıcı Adınız</string>
+    <string name="sifrePlaceHolder">esŞifre</string>
+    <string name="buttontext">esGiriş Yapınız</string>
+
+</resources>

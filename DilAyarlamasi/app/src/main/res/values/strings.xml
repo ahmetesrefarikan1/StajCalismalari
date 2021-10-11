@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dil Ayarı</string>
+    <string name="baslik">Merhaba</string>
+    <string name="kullaniciPlaceHolder">Kullanıcı Adınız</string>
+    <string name="sifrePlaceHolder">Şifre</string>
+    <string name="buttontext">Giriş Yapınız</string>
+
+</resources>
